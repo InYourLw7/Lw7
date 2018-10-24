@@ -1,3 +1,4 @@
+clear
 #!/system/xbin/bash
 #ngapain lu bangsat
 #mau record?
